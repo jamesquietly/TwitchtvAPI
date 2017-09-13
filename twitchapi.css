@@ -1,0 +1,14 @@
+.channels {
+    margin-left: 35%;
+    width: 30%;
+    margin-top: 3px;
+    background-color: rgb(200, 200, 200);
+}
+
+#tabs > a {
+    font-size: 25px;
+}
+
+* {
+    font-size: 15px;
+}
